@@ -1,0 +1,47 @@
+var data = [
+    {
+        "img": "images/pic1.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "realme c33"
+    },
+    {
+        "img": "images/pic2.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "vivo v25e"
+    },
+    {
+        "img": "images/pic3.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "infinix hot 20i"
+    },
+    {
+        "img": "images/pic4.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "techno spark 9t"
+    },
+    {
+        "img": "images/pic5.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "vivo Y16"
+    },
+    {
+        "img": "images/pic6.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "Vivo V25"
+    },
+    {
+        "img": "images/pic7.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "Oppo A57"
+    },
+    {
+        "img": "images/pic8.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "Vivo Y35"
+    },
+    {
+        "img": "images/pic9.png",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam ea debitis, officiis incidunt eveniet sit?",
+        "foot": "Dcode X"
+    }
+]
